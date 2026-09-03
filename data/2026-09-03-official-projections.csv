@@ -1,0 +1,176 @@
+institution,variable,year,value,vintage,entry_method
+Bank of Greece,current_account_pct_gdp,2026,-6.2,BoG 2026-07-17,manual
+Bank of Greece,current_account_pct_gdp,2027,-5.8,BoG 2026-07-17,manual
+Bank of Greece,current_account_pct_gdp,2028,-5.6,BoG 2026-07-17,manual
+European Commission,current_account_pct_gdp,2026,-7.08559,EC Spring 2026,api
+European Commission,current_account_pct_gdp,2027,-6.1206,EC Spring 2026,api
+IMF WEO,current_account_pct_gdp,2026,-6.4,World Economic Outlook (April 2026),api
+IMF WEO,current_account_pct_gdp,2027,-5.7,World Economic Outlook (April 2026),api
+IMF WEO,current_account_pct_gdp,2028,-5.0,World Economic Outlook (April 2026),api
+IMF WEO,current_account_pct_gdp,2029,-4.5,World Economic Outlook (April 2026),api
+IMF WEO,current_account_pct_gdp,2030,-4.2,World Economic Outlook (April 2026),api
+IMF WEO,current_account_pct_gdp,2031,-4.0,World Economic Outlook (April 2026),api
+OECD,current_account_pct_gdp,2026,-6.66684,OECD EO119 (June 2026),api
+OECD,current_account_pct_gdp,2027,-5.9879,OECD EO119 (June 2026),api
+Eurostat EUROPOP2023,fertility_rate,2026,1.423,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2027,1.427,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2028,1.43,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2029,1.434,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2030,1.438,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2031,1.441,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2035,1.455,EUROPOP2023,api
+Eurostat EUROPOP2023,fertility_rate,2040,1.47,EUROPOP2023,api
+Bank of Greece,gdp_growth,2026,1.9,BoG 2026-07-17,manual
+Bank of Greece,gdp_growth,2027,1.9,BoG 2026-07-17,manual
+Bank of Greece,gdp_growth,2028,2.0,BoG 2026-07-17,manual
+European Commission,gdp_growth,2026,1.79,EC Spring 2026,api
+European Commission,gdp_growth,2027,1.6,EC Spring 2026,api
+IMF WEO,gdp_growth,2026,1.8,World Economic Outlook (April 2026),api
+IMF WEO,gdp_growth,2027,1.7,World Economic Outlook (April 2026),api
+IMF WEO,gdp_growth,2028,1.6,World Economic Outlook (April 2026),api
+IMF WEO,gdp_growth,2029,1.6,World Economic Outlook (April 2026),api
+IMF WEO,gdp_growth,2030,1.6,World Economic Outlook (April 2026),api
+IMF WEO,gdp_growth,2031,1.6,World Economic Outlook (April 2026),api
+MinFin MTFSP 2025-28,gdp_growth,2026,2.0,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,gdp_growth,2027,1.5,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,gdp_growth,2028,1.3,MinFin MTFSP 2024-10,manual
+Ministry of Finance,gdp_growth,2026,2.0,MinFin APR 2026-04,manual
+OECD,gdp_growth,2026,1.87633,OECD EO119 (June 2026),api
+OECD,gdp_growth,2027,2.04175,OECD EO119 (June 2026),api
+IMF WEO,gdp_pc_ppp_usd,2026,47174.6,World Economic Outlook (April 2026),api
+IMF WEO,gdp_pc_ppp_usd,2027,49084.646,World Economic Outlook (April 2026),api
+IMF WEO,gdp_pc_ppp_usd,2028,50763.257,World Economic Outlook (April 2026),api
+IMF WEO,gdp_pc_ppp_usd,2029,52572.415,World Economic Outlook (April 2026),api
+IMF WEO,gdp_pc_ppp_usd,2030,54477.053,World Economic Outlook (April 2026),api
+IMF WEO,gdp_pc_ppp_usd,2031,56517.03,World Economic Outlook (April 2026),api
+European Commission,gg_balance_pct_gdp,2026,0.79088,EC Spring 2026,api
+European Commission,gg_balance_pct_gdp,2027,0.56339,EC Spring 2026,api
+IMF WEO,gg_balance_pct_gdp,2026,0.6,World Economic Outlook (April 2026),api
+IMF WEO,gg_balance_pct_gdp,2027,-0.2,World Economic Outlook (April 2026),api
+IMF WEO,gg_balance_pct_gdp,2028,-0.2,World Economic Outlook (April 2026),api
+IMF WEO,gg_balance_pct_gdp,2029,-0.5,World Economic Outlook (April 2026),api
+IMF WEO,gg_balance_pct_gdp,2030,-0.6,World Economic Outlook (April 2026),api
+IMF WEO,gg_balance_pct_gdp,2031,-0.7,World Economic Outlook (April 2026),api
+MinFin MTFSP 2025-28,gg_balance_pct_gdp,2026,-0.8,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,gg_balance_pct_gdp,2027,-1.1,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,gg_balance_pct_gdp,2028,-1.2,MinFin MTFSP 2024-10,manual
+Ministry of Finance,gg_balance_pct_gdp,2026,0.2,MinFin APR 2026-04,manual
+OECD,gg_balance_pct_gdp,2026,-0.18892,OECD EO119 (June 2026),api
+OECD,gg_balance_pct_gdp,2027,-0.2167,OECD EO119 (June 2026),api
+OECD,gg_gross_financial_liabilities_pct_gdp,2026,151.97649,OECD EO119 (June 2026),api
+OECD,gg_gross_financial_liabilities_pct_gdp,2027,145.92334,OECD EO119 (June 2026),api
+Bank of Greece,hicp_inflation,2026,3.8,BoG 2026-07-17,manual
+Bank of Greece,hicp_inflation,2027,2.6,BoG 2026-07-17,manual
+Bank of Greece,hicp_inflation,2028,2.3,BoG 2026-07-17,manual
+European Commission,hicp_inflation,2026,3.72,EC Spring 2026,api
+European Commission,hicp_inflation,2027,2.41,EC Spring 2026,api
+IMF WEO,hicp_inflation,2026,3.5,World Economic Outlook (April 2026),api
+IMF WEO,hicp_inflation,2027,2.7,World Economic Outlook (April 2026),api
+IMF WEO,hicp_inflation,2028,2.5,World Economic Outlook (April 2026),api
+IMF WEO,hicp_inflation,2029,2.1,World Economic Outlook (April 2026),api
+IMF WEO,hicp_inflation,2030,2.1,World Economic Outlook (April 2026),api
+IMF WEO,hicp_inflation,2031,2.1,World Economic Outlook (April 2026),api
+Ministry of Finance,hicp_inflation,2026,3.2,MinFin APR 2026-04,manual
+OECD,hicp_inflation,2026,4.23604,OECD EO119 (June 2026),api
+OECD,hicp_inflation,2027,2.62088,OECD EO119 (June 2026),api
+Bank of Greece,investment_growth,2026,5.5,BoG 2026-07-17,manual
+Bank of Greece,investment_growth,2027,3.6,BoG 2026-07-17,manual
+Bank of Greece,investment_growth,2028,3.4,BoG 2026-07-17,manual
+Ministry of Finance,investment_growth,2026,7.1,MinFin APR 2026-04,manual
+European Commission,nawru,2026,8.949,EC Spring 2026,api
+European Commission,nawru,2027,8.841,EC Spring 2026,api
+Eurostat EUROPOP2023,old_age_dependency,2026,38.3,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2027,39.0,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2028,39.9,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2029,40.8,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2030,41.8,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2031,42.9,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2032,44.1,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2033,45.5,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2034,46.9,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2035,48.3,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2036,49.6,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2037,50.9,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2038,52.2,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2039,53.6,EUROPOP2023,api
+Eurostat EUROPOP2023,old_age_dependency,2040,55.0,EUROPOP2023,api
+European Commission,output_gap,2026,2.80372,EC Spring 2026,api
+European Commission,output_gap,2027,2.7029,EC Spring 2026,api
+OECD,output_gap,2026,0.61506,OECD EO119 (June 2026),api
+OECD,output_gap,2027,0.58832,OECD EO119 (June 2026),api
+Eurostat EUROPOP2023,population_mn,2026,10.266269,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2027,10.209059,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2028,10.149281,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2029,10.090457,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2030,10.032545,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2031,9.975534,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2032,9.91967,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2033,9.865215,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2034,9.811524,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2035,9.758893,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2036,9.706313,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2037,9.653946,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2038,9.602624,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2039,9.551283,EUROPOP2023,api
+Eurostat EUROPOP2023,population_mn,2040,9.500551,EUROPOP2023,api
+IMF WEO,population_mn,2026,10.357,World Economic Outlook (April 2026),api
+IMF WEO,population_mn,2027,10.341,World Economic Outlook (April 2026),api
+IMF WEO,population_mn,2028,10.326,World Economic Outlook (April 2026),api
+IMF WEO,population_mn,2029,10.31,World Economic Outlook (April 2026),api
+IMF WEO,population_mn,2030,10.295,World Economic Outlook (April 2026),api
+IMF WEO,population_mn,2031,10.264,World Economic Outlook (April 2026),api
+European Commission,potential_growth,2026,1.69,EC Spring 2026,api
+European Commission,potential_growth,2027,1.69,EC Spring 2026,api
+MinFin MTFSP 2025-28,potential_growth,2026,2.4,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,potential_growth,2027,1.7,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,potential_growth,2028,1.5,MinFin MTFSP 2024-10,manual
+Ministry of Finance,potential_growth,2026,1.9,MinFin APR 2026-04,manual
+Bank of Greece,primary_balance_pct_gdp,2026,3.2,BoG 2026-07-17,manual
+European Commission,primary_balance_pct_gdp,2026,4.00721,EC Spring 2026,api
+European Commission,primary_balance_pct_gdp,2027,3.71351,EC Spring 2026,api
+MinFin MTFSP 2025-28,primary_balance_pct_gdp,2026,2.4,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,primary_balance_pct_gdp,2027,2.4,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,primary_balance_pct_gdp,2028,2.4,MinFin MTFSP 2024-10,manual
+Ministry of Finance,primary_balance_pct_gdp,2026,3.2,MinFin APR 2026-04,manual
+Bank of Greece,public_debt_pct_gdp,2026,136.8,BoG 2026-07-17,manual
+European Commission,public_debt_pct_gdp,2026,140.67863,EC Spring 2026,api
+European Commission,public_debt_pct_gdp,2027,134.35518,EC Spring 2026,api
+IMF WEO,public_debt_pct_gdp,2026,136.9,World Economic Outlook (April 2026),api
+IMF WEO,public_debt_pct_gdp,2027,130.3,World Economic Outlook (April 2026),api
+IMF WEO,public_debt_pct_gdp,2028,125.2,World Economic Outlook (April 2026),api
+IMF WEO,public_debt_pct_gdp,2029,120.4,World Economic Outlook (April 2026),api
+IMF WEO,public_debt_pct_gdp,2030,115.5,World Economic Outlook (April 2026),api
+IMF WEO,public_debt_pct_gdp,2031,110.9,World Economic Outlook (April 2026),api
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2026,143.1,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2027,138.0,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2028,133.4,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2029,130.1,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2030,127.1,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2031,124.3,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2032,121.7,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2033,120.6,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2034,119.6,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2035,118.4,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2036,117.1,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2037,115.9,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,public_debt_pct_gdp,2038,114.9,MinFin MTFSP 2024-10,manual
+Ministry of Finance,public_debt_pct_gdp,2026,136.8,MinFin APR 2026-04,manual
+European Commission,tfp_growth,2026,0.75,EC Spring 2026,api
+European Commission,tfp_growth,2027,0.68,EC Spring 2026,api
+Bank of Greece,unemployment_rate,2026,8.2,BoG 2026-07-17,manual
+Bank of Greece,unemployment_rate,2027,7.8,BoG 2026-07-17,manual
+Bank of Greece,unemployment_rate,2028,7.6,BoG 2026-07-17,manual
+European Commission,unemployment_rate,2026,8.3,EC Spring 2026,api
+European Commission,unemployment_rate,2027,7.9,EC Spring 2026,api
+IMF WEO,unemployment_rate,2026,7.4,World Economic Outlook (April 2026),api
+IMF WEO,unemployment_rate,2027,7.1,World Economic Outlook (April 2026),api
+IMF WEO,unemployment_rate,2028,7.0,World Economic Outlook (April 2026),api
+IMF WEO,unemployment_rate,2029,6.9,World Economic Outlook (April 2026),api
+IMF WEO,unemployment_rate,2030,6.8,World Economic Outlook (April 2026),api
+IMF WEO,unemployment_rate,2031,6.8,World Economic Outlook (April 2026),api
+MinFin MTFSP 2025-28,unemployment_rate,2026,9.2,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,unemployment_rate,2027,8.7,MinFin MTFSP 2024-10,manual
+MinFin MTFSP 2025-28,unemployment_rate,2028,8.5,MinFin MTFSP 2024-10,manual
+Ministry of Finance,unemployment_rate,2026,8.4,MinFin APR 2026-04,manual
+OECD,unemployment_rate,2026,8.25905,OECD EO119 (June 2026),api
+OECD,unemployment_rate,2027,8.14209,OECD EO119 (June 2026),api

@@ -1,0 +1,1495 @@
+variable,year,value,source,dataset,vintage,kind
+activity_rate_15_64,1995,60.1,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,1996,61.0,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,1997,60.8,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,1998,63.0,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,1999,63.7,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2000,63.9,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2001,63.3,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2002,64.1,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2003,64.9,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2004,66.3,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2005,66.4,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2006,66.7,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2007,66.5,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2008,66.7,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2009,67.4,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2010,67.8,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2011,67.3,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2012,67.5,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2013,67.5,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2014,67.4,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2015,67.8,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2016,68.2,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2017,68.3,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2018,68.2,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2019,68.4,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2020,67.4,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2021,67.3,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2022,69.4,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2023,69.5,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2024,70.5,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+activity_rate_15_64,2025,70.9,Eurostat,lfsa_argan 15-64,2026-06-30T11:00:00+0200,history
+bond_yield_10y,1995,16.96,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,1996,14.43,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,1997,9.92,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,1998,8.48,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,1999,6.3,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2000,6.1,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2001,5.3,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2002,5.12,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2003,4.27,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2004,4.26,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2005,3.59,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2006,4.07,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2007,4.5,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2008,4.8,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2009,5.17,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2010,9.09,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2011,15.75,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2012,22.5,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2013,10.05,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2014,6.93,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2015,9.67,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2016,8.36,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2017,5.98,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2018,4.19,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2019,2.59,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2020,1.27,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2021,0.88,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2022,3.49,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2023,4.0,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2024,3.35,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+bond_yield_10y,2025,3.36997,Eurostat,irt_lt_mcby_a (Maastricht criterion yield),2026-02-25T23:00:00+0100,history
+capital_stock_bn_eur2020,1995,625.57266,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,1996,636.1968,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,1997,646.92135,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,1998,662.00816,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,1999,678.40919,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2000,695.3414,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2001,712.37726,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2002,727.02957,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2003,745.17317,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2004,765.48663,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2005,778.66194,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2006,798.62343,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2007,822.79472,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2008,840.82512,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2009,850.29035,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2010,850.08056,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2011,842.64632,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2012,831.67249,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2013,820.13519,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2014,809.41036,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2015,799.61845,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2016,790.9142,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2017,784.30132,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2018,777.21056,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2019,770.5818,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2020,764.64936,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2021,763.26383,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2022,767.06838,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2023,772.28807,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2024,778.47979,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+capital_stock_bn_eur2020,2025,787.47416,"AMECO (EC, Spring 2026)",OKND,Spring 2026,history
+current_account_pct_gdp,1995,-2.4,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,1996,-3.6,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,1997,-3.8,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,1998,-2.7,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,1999,-3.7,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2000,-6.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2001,-7.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2002,-6.4,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2003,-6.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2004,-5.7,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2005,-7.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2006,-11.0,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2007,-14.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2008,-14.7,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2009,-11.0,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2010,-10.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2011,-10.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2012,-2.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2013,-2.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2014,-1.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2015,-1.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2016,-2.4,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2017,-2.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2018,-3.5,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2019,-2.1,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2020,-7.2,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2021,-7.2,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2022,-10.7,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2023,-6.8,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2024,-7.2,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+current_account_pct_gdp,2025,-5.7,IMF WEO,BCA_NGDPD,World Economic Outlook (April 2026),history
+employment_rate_20_64,2009,65.4,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2010,63.5,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2011,59.3,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2012,54.5,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2013,52.5,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2014,53.1,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2015,54.8,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2016,55.9,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2017,57.4,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2018,59.0,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2019,60.8,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2020,58.3,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2021,62.6,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2022,66.3,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2023,67.4,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2024,69.3,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_rate_20_64,2025,71.0,Eurostat,lfsi_emp_a EMP_LFS 20-64,2026-06-11T23:00:00+0200,history
+employment_ths_persons,1995,4152.51,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,1996,4132.13,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,1997,4120.75,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,1998,4298.7,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,1999,4308.05,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2000,4324.32,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2001,4334.45,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2002,4440.87,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2003,4491.12,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2004,4606.83,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2005,4652.09,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2006,4742.95,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2007,4806.73,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2008,4867.13,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2009,4836.0,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2010,4706.44,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2011,4505.14,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2012,4325.83,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2013,4300.67,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2014,4453.73,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2015,4322.57,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2016,4469.51,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2017,4446.63,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2018,4650.34,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2019,4751.96,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2020,4629.79,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2021,4865.56,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2022,5037.39,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2023,5135.82,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2024,5183.48,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+employment_ths_persons,2025,5226.0,Eurostat,nama_10_a10_e EMP_DC THS_PER,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,1995,14.37,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,1996,14.31,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,1997,16.37,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,1998,16.49,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,1999,19.42,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2000,24.01,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2001,23.16,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2002,20.38,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2003,18.87,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2004,20.61,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2005,20.99,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2006,20.77,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2007,21.75,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2008,22.78,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2009,18.73,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2010,21.73,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2011,25.31,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2012,28.97,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2013,30.33,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2014,32.52,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2015,32.19,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2016,31.18,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2017,34.78,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2018,38.63,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2019,39.56,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2020,31.45,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2021,40.26,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2022,49.23,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2023,43.84,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2024,42.11,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+exports_pct_gdp,2025,39.46,Eurostat,nama_10_gdp P6/B1GQ,2026-09-02T23:00:00+0200,history
+fertility_rate,1990,1.39,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1991,1.37,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1992,1.36,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1993,1.32,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1994,1.33,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1995,1.28,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1996,1.26,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1997,1.27,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1998,1.24,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,1999,1.23,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2000,1.25,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2001,1.25,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2002,1.28,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2003,1.29,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2004,1.31,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2005,1.34,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2006,1.4,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2007,1.41,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2008,1.5,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2009,1.5,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2010,1.48,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2011,1.4,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2012,1.34,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2013,1.29,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2014,1.3,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2015,1.33,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2016,1.38,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2017,1.35,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2018,1.35,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2019,1.34,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2020,1.39,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2021,1.43,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2022,1.32,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2023,1.26,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+fertility_rate,2024,1.24,Eurostat,demo_find TOTFERRT,2026-08-14T23:00:00+0200,history
+gdp_deflator_growth,1996,8.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,1997,6.6,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,1998,5.3,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,1999,3.5,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2000,1.6,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2001,3.5,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2002,3.0,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2003,3.6,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2004,3.0,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2005,1.9,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2006,3.4,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2007,3.4,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2008,4.1,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2009,2.4,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2010,1.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2011,1.0,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2012,-0.3,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2013,-2.0,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2014,-1.9,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2015,-0.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2016,-0.5,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2017,0.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2018,-0.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2019,0.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2020,-0.4,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2021,1.4,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2022,6.3,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2023,6.3,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2024,3.2,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_deflator_growth,2025,2.8,Eurostat,nama_10_gdp PD_PCH_PRE_NAC,2026-09-02T23:00:00+0200,history
+gdp_growth,1996,1.38,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,1997,3.6,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,1998,3.44,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,1999,2.66,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2000,4.14,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2001,4.65,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2002,4.68,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2003,5.8,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2004,5.38,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2005,1.18,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2006,6.44,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2007,3.51,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2008,0.06,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2009,-4.12,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2010,-5.69,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2011,-9.88,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2012,-8.33,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2013,-2.27,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2014,0.79,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2015,-0.23,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2016,-0.03,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2017,1.47,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2018,2.06,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2019,2.28,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2020,-9.2,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2021,8.65,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2022,5.52,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2023,2.14,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2024,2.09,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_growth,2025,2.07,Eurostat,nama_10_gdp B1GQ CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,1995,103.20639999999999,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,1996,112.2623,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,1997,122.4778,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,1998,124.75439999999999,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,1999,134.5888,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2000,137.82760000000002,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2001,147.4387,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2002,158.9023,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2003,174.096,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2004,188.9052,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2005,194.77339999999998,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2006,214.2989,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2007,229.28279999999998,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2008,238.7354,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2009,234.3226,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2010,223.5905,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2011,203.475,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2012,185.8992,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2013,178.1139,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2014,176.0718,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2015,175.3629,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2016,174.4482,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2017,177.3785,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2018,180.6157,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2019,185.18120000000002,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2020,167.5395,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2021,184.5746,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2022,207.0087,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2023,224.6862,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2024,236.736,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_nominal_bn_eur,2025,248.3537,Eurostat,nama_10_gdp B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,1995,9770.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,1996,10580.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,1997,11490.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,1998,11640.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,1999,12510.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2000,12750.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2001,13570.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2002,14580.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2003,15930.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2004,17240.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2005,17730.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2006,19450.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2007,20750.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2008,21550.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2009,21100.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2010,20100.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2011,18320.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2012,16830.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2013,16240.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2014,16160.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2015,16210.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2016,16190.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2017,16490.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2018,16830.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2019,17270.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2020,15660.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2021,17350.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2022,19570.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2023,21300.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2024,22480.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_nominal_eur,2025,23570.0,Eurostat,nama_10_pc CP_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_ppp_usd,1995,16630.593,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,1996,17084.307,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,1997,17935.702,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,1998,18648.41,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,1999,19316.648,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2000,20518.416,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2001,21833.789,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2002,23100.023,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2003,24858.798,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2004,26839.562,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2005,27933.371,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2006,30553.239,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2007,32389.394,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2008,32957.884,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2009,31698.251,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2010,30189.969,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2011,27759.303,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2012,26006.908,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2013,26043.07,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2014,26894.315,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2015,27253.512,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2016,27693.158,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2017,28645.684,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2018,29769.073,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2019,31918.392,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2020,29478.097,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2021,33233.409,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2022,38341.94,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2023,40795.65,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2024,42837.986,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_ppp_usd,2025,44981.338,IMF WEO,PPPPC (intl $),World Economic Outlook (April 2026),history
+gdp_pc_pps,1995,12743.5,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,1996,13368.8,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,1997,13913.7,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,1998,14505.1,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,1999,14840.6,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2000,15631.4,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2001,16808.7,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2002,18024.6,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2003,19096.0,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2004,20287.2,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2005,20481.1,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2006,22327.0,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2007,22815.1,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2008,23623.4,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2009,22620.2,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2010,21075.8,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2011,19146.0,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2012,18153.6,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2013,18572.7,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2014,18958.3,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2015,19131.7,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2016,19106.0,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2017,19700.8,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2018,20203.0,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2019,20765.1,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2020,18866.4,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2021,21245.7,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2022,24026.4,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2023,26263.1,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2024,27373.2,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_pps,2025,28469.9,Eurostat,nama_10_pc CP_PPS_EU27_2020_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,1995,14290.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,1996,14430.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,1997,14870.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,1998,15300.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,1999,15650.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2000,16230.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2001,16890.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2002,17620.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2003,18600.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2004,19550.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2005,19720.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2006,20930.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2007,21610.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2008,21560.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2009,20620.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2010,19420.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2011,17530.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2012,16160.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2013,15900.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2014,16140.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2015,16210.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2016,16270.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2017,16540.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2018,16920.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2019,17320.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2020,15760.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2021,17220.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2022,18270.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2023,18720.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2024,19140.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_pc_real_eur2015,2025,19530.0,Eurostat,nama_10_pc CLV15_EUR_HAB,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,1995,150.9567,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,1996,153.0437,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,1997,158.5577,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,1998,164.0072,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,1999,168.3678,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2000,175.3346,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2001,183.48829999999998,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2002,192.0814,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2003,203.216,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2004,214.1446,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2005,216.6791,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2006,230.6406,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2007,238.72879999999998,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2008,238.866,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2009,229.0265,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2010,215.9863,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2011,194.6538,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2012,178.43689999999998,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2013,174.3826,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2014,175.76420000000002,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2015,175.3629,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2016,175.30710000000002,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2017,177.8896,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2018,181.5625,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2019,185.697,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2020,168.6198,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2021,183.213,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2022,193.33,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2023,197.4594,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2024,201.5795,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gdp_real_bn_eur2015,2025,205.7584,Eurostat,nama_10_gdp B1GQ CLV15_MEUR,2026-09-02T23:00:00+0200,history
+gg_balance_pct_gdp,1995,-9.9,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,1996,-8.4,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,1997,-6.2,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,1998,-6.5,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,1999,-6.0,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2000,-4.2,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2001,-5.6,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2002,-6.2,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2003,-8.0,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2004,-9.1,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2005,-6.3,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2006,-6.0,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2007,-6.8,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2008,-10.3,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2009,-15.4,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2010,-11.4,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2011,-10.5,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2012,-9.3,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2013,-13.6,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2014,-3.8,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2015,-5.9,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2016,0.2,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2017,0.7,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2018,0.9,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2019,0.8,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2020,-9.9,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2021,-7.2,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2022,-2.6,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2023,-1.4,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2024,1.3,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_balance_pct_gdp,2025,1.7,Eurostat,gov_10dd_edpt1 B9 S13,2026-04-22T11:00:00+0200,history
+gg_expenditure_pct_gdp,1995,46.6,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,1996,46.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,1997,45.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,1998,46.7,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,1999,48.0,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2000,48.2,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2001,47.5,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2002,47.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2003,47.9,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2004,48.8,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2005,46.6,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2006,45.9,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2007,47.8,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2008,51.5,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2009,54.8,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2010,53.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2011,55.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2012,57.9,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2013,63.9,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2014,51.5,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2015,54.8,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2016,50.3,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2017,48.6,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2018,48.6,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2019,47.7,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2020,59.3,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2021,56.6,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2022,53.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2023,49.5,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2024,48.1,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_expenditure_pct_gdp,2025,48.3,Eurostat,gov_10a_main TE S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,1995,10.8,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,1996,10.5,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,1997,8.6,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,1998,8.0,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,1999,7.9,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2000,7.1,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2001,6.5,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2002,5.7,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2003,5.0,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2004,4.9,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2005,4.8,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2006,4.5,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2007,4.6,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2008,4.9,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2009,5.1,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2010,6.1,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2011,7.7,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2012,5.4,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2013,4.2,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2014,4.0,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2015,3.6,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2016,3.2,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2017,3.1,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2018,3.4,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2019,3.0,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2020,3.0,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2021,2.5,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2022,2.5,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2023,3.4,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2024,3.5,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_interest_pct_gdp,2025,3.2,Eurostat,gov_10a_main D41PAY S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,1995,36.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,1996,37.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,1997,38.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,1998,40.2,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,1999,42.0,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2000,43.9,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2001,41.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2002,40.9,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2003,39.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2004,39.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2005,40.3,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2006,39.8,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2007,41.0,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2008,41.2,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2009,39.4,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2010,41.7,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2011,44.6,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2012,48.6,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2013,50.3,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2014,47.7,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2015,48.9,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2016,50.5,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2017,49.3,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2018,49.5,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2019,48.5,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2020,49.4,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2021,49.3,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2022,50.5,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2023,48.1,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2024,49.4,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+gg_revenue_pct_gdp,2025,50.0,Eurostat,gov_10a_main TR S13,2026-07-21T11:00:00+0200,history
+hicp_inflation,1996,7.9,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,1997,5.4,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,1998,4.5,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,1999,2.1,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2000,2.9,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2001,3.6,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2002,3.9,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2003,3.4,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2004,3.0,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2005,3.5,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2006,3.3,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2007,3.0,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2008,4.2,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2009,1.3,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2010,4.7,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2011,3.1,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2012,1.0,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2013,-0.9,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2014,-1.4,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2015,-1.1,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2016,0.0,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2017,1.1,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2018,0.8,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2019,0.5,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2020,-1.3,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2021,0.6,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2022,9.3,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2023,4.2,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2024,3.0,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hicp_inflation,2025,2.9,Eurostat,prc_hicp_aind CP00 RCH_A_AVG,2026-02-06T23:00:00+0100,history
+hours_worked_mn,1995,8984.63,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,1996,8930.7,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,1997,8891.189,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,1998,9272.884,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,1999,9270.34,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2000,9299.219,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2001,9284.608,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2002,9465.217,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2003,9564.337,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2004,9735.132,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2005,10071.111,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2006,10190.83,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2007,10270.706,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2008,10336.126,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2009,10148.379,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2010,9587.642,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2011,9268.543,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2012,9080.87,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2013,9058.323,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2014,9158.616,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2015,8823.481,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2016,9159.918,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2017,9132.782,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2018,9620.558,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2019,9612.781,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2020,8475.969,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2021,9515.148,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2022,10054.494,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2023,10260.971,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2024,10391.466,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+hours_worked_mn,2025,10333.141,Eurostat,nama_10_a10_e EMP_DC THS_HW,2026-09-02T23:00:00+0200,history
+household_debt_pct_gdp,1995,5.7,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,1996,6.6,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,1997,8.3,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,1998,9.3,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,1999,10.9,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2000,13.6,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2001,17.4,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2002,21.3,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2003,24.7,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2004,29.7,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2005,36.9,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2006,41.7,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2007,47.1,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2008,50.9,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2009,52.9,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2010,62.2,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2011,65.3,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2012,67.0,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2013,66.8,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2014,65.0,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2015,63.2,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2016,61.3,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2017,58.2,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2018,58.5,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2019,55.4,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2020,58.7,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2021,54.6,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2022,45.1,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2023,40.9,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2024,39.0,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_debt_pct_gdp,2025,38.0,Eurostat,tipspd22 (HH+NPISH consolidated),2026-08-22T11:00:00+0200,history
+household_saving_rate,1995,15.68,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,1996,14.6,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,1997,10.37,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,1998,9.08,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,1999,9.99,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2000,9.3,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2001,7.35,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2002,8.73,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2003,10.59,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2004,10.7,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2005,6.78,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2006,10.42,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2007,8.94,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2008,9.17,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2009,11.12,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2010,4.99,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2011,0.98,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2012,-3.37,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2013,-5.33,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2014,-3.48,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2015,-1.63,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2016,-2.24,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2017,-4.26,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2018,-7.01,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2019,-2.42,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2020,0.65,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2021,4.43,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2022,-4.99,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2023,-2.44,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+household_saving_rate,2024,-2.51,Eurostat,nasa_10_ki SRG_S14_S15,2026-07-27T11:00:00+0200,history
+investment_growth,1996,9.39,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,1997,3.08,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,1998,17.9,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,1999,7.01,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2000,4.79,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2001,3.93,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2002,-2.47,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2003,11.76,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2004,7.61,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2005,-12.02,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2006,18.7,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2007,11.91,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2008,-7.31,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2009,-13.26,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2010,-22.2,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2011,-25.25,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2012,-18.84,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2013,-9.36,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2014,-2.23,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2015,0.18,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2016,2.57,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2017,7.66,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2018,-4.57,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2019,-0.83,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2020,1.67,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2021,21.66,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2022,22.11,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2023,6.53,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2024,4.46,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_growth,2025,8.88,Eurostat,nama_10_gdp P51G CLV15_MEUR (computed % change),2026-09-02T23:00:00+0200,history
+investment_pct_gdp,1995,20.97,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,1996,22.11,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,1997,21.59,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,1998,24.51,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,1999,25.39,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2000,25.94,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2001,25.6,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2002,23.88,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2003,24.88,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2004,25.04,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2005,21.36,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2006,24.06,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2007,25.53,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2008,23.28,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2009,20.44,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2010,16.82,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2011,13.87,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2012,12.28,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2013,11.54,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2014,11.23,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2015,11.16,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2016,11.37,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2017,12.05,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2018,11.33,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2019,10.97,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2020,12.3,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2021,13.79,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2022,15.72,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2023,15.88,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2024,16.04,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_pct_gdp,2025,16.88,Eurostat,nama_10_gdp P51G/B1GQ CP_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,1995,27.3541,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,1996,29.9236,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,1997,30.8444,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,1998,36.3653,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,1999,38.9161,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2000,40.7796,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2001,42.3826,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2002,41.3372,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2003,46.1965,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2004,49.714,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2005,43.7395,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2006,51.9169,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2007,58.1005,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2008,53.8526,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2009,46.7106,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2010,36.3404,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2011,27.1649,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2012,22.0475,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2013,19.9832,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2014,19.5369,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2015,19.5724,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2016,20.0751,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2017,21.6138,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2018,20.6266,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2019,20.4561,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2020,20.7984,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2021,25.3043,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2022,30.8998,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2023,32.9181,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2024,34.3856,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+investment_real_bn_eur2015,2025,37.4398,Eurostat,nama_10_gdp P51G CLV15_MEUR,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,1995,84.539,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,1996,86.225,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,1997,89.728,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,1998,88.992,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,1999,91.383,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2000,94.869,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2001,99.437,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2002,102.107,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2003,106.907,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2004,110.68,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2005,108.253,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2006,113.875,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2007,116.952,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2008,116.278,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2009,113.551,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2010,113.349,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2011,105.67,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2012,98.869,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2013,96.863,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2014,96.561,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2015,100.0,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2016,96.296,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2017,98.005,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2018,94.957,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2019,97.198,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2020,100.097,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2021,96.882,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2022,96.748,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2023,96.826,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2024,97.605,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+labour_productivity_per_hour_idx,2025,100.191,Eurostat,nama_10_lp_ulc RLPR_HW I15,2026-09-02T23:00:00+0200,history
+median_age,1995,37.1,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,1996,37.4,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,1997,37.7,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,1998,37.9,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,1999,38.2,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2000,38.5,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2001,38.7,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2002,38.3,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2003,38.6,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2004,38.9,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2005,39.2,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2006,39.5,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2007,39.9,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2008,40.3,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2009,40.7,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2010,41.1,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2011,41.5,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2012,42.0,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2013,42.4,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2014,43.0,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2015,43.5,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2016,44.0,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2017,44.3,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2018,44.7,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2019,45.1,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2020,45.4,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2021,45.8,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2022,46.2,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2023,46.6,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2024,46.9,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+median_age,2025,47.2,Eurostat,demo_pjanind MEDAGEPOP,2026-08-14T23:00:00+0200,history
+natural_change_ths,1995,1.337,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,1996,-0.022,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,1997,2.3,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,1998,-1.774,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,1999,-2.661,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2000,-1.952,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2001,-0.277,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2002,-0.346,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2003,-1.109,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2004,0.713,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2005,2.454,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2006,6.566,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2007,2.031,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2008,10.323,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2009,9.617,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2010,5.682,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2011,-4.671,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2012,-16.297,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2013,-17.66,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2014,-21.591,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2015,-29.336,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2016,-25.89,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2017,-35.948,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2018,-33.856,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2019,-41.202,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2020,-46.283,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2021,-58.577,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2022,-64.0,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2023,-55.92,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2024,-57.564,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+natural_change_ths,2025,-55.386,Eurostat,demo_gind NATGROW,2026-07-21T23:00:00+0200,history
+nawru,1995,8.161,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,1996,8.298,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,1997,8.401,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,1998,8.551,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,1999,8.747,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2000,8.781,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2001,8.894,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2002,9.019,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2003,9.056,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2004,9.269,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2005,9.32,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2006,9.372,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2007,9.467,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2008,9.434,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2009,9.528,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2010,9.524,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2011,9.564,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2012,9.787,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2013,9.81,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2014,9.651,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2015,9.611,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2016,9.665,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2017,9.603,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2018,9.554,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2019,9.46,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2020,9.574,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2021,9.373,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2022,9.293,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2023,9.229,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2024,9.165,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+nawru,2025,9.035,"AMECO (EC, Spring 2026)",ZNAWRU,Spring 2026,history
+net_migration_ths,1995,51.022,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,1996,40.957,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,1997,61.683,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,1998,56.292,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,1999,30.52,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2000,62.314,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2001,52.562,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2002,27.842,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2003,25.708,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2004,28.83,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2005,32.35,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2006,24.726,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2007,22.898,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2008,23.485,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2009,14.927,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2010,-1.579,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2011,-32.315,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2012,-66.494,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2013,-68.052,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2014,-54.662,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2015,-53.29,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2016,-1.998,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2017,-4.243,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2018,1.733,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2019,18.58,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2020,-10.964,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2021,-35.14,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2022,4.241,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2023,29.816,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2024,54.135,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+net_migration_ths,2025,49.637,Eurostat,demo_gind CNMIGRAT (incl. statistical adjustment),2026-07-21T23:00:00+0200,history
+nfc_debt_pct_gdp,1995,30.5,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,1996,30.5,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,1997,31.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,1998,33.6,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,1999,35.8,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2000,42.3,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2001,45.5,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2002,45.3,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2003,46.0,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2004,46.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2005,51.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2006,52.9,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2007,56.3,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2008,64.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2009,65.6,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2010,67.8,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2011,67.8,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2012,70.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2013,68.0,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2014,68.7,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2015,67.0,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2016,66.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2017,62.3,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2018,60.3,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2019,54.3,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2020,65.0,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2021,65.5,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2022,54.7,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2023,53.1,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2024,55.6,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+nfc_debt_pct_gdp,2025,58.6,Eurostat,tipspd20 minus tipspd22 (computed),2026-08-22T11:00:00+0200,history
+niip_pct_gdp,2003,-61.2,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2004,-68.6,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2005,-77.4,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2006,-84.0,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2007,-95.1,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2008,-76.8,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2009,-88.7,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2010,-100.0,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2011,-90.4,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2012,-119.2,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2013,-132.3,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2014,-133.9,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2015,-136.9,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2016,-139.2,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2017,-143.0,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2018,-147.8,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2019,-156.9,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2020,-177.1,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2021,-175.6,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2022,-149.4,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2023,-145.9,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2024,-137.6,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+niip_pct_gdp,2025,-136.4,Eurostat,tipsii40 (Q4),2026-07-08T11:00:00+0200,history
+old_age_dependency,1995,22.7,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,1996,23.3,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,1997,23.9,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,1998,24.4,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,1999,24.9,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2000,25.5,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2001,26.2,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2002,26.1,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2003,26.6,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2004,27.1,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2005,27.4,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2006,27.7,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2007,27.9,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2008,28.0,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2009,28.2,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2010,28.6,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2011,29.2,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2012,29.8,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2013,30.5,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2014,31.3,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2015,32.0,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2016,32.7,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2017,33.3,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2018,33.8,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2019,34.3,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2020,34.7,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2021,35.2,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2022,35.7,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2023,36.2,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2024,36.8,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+old_age_dependency,2025,37.4,Eurostat,demo_pjanind OLDDEP1 (65+/15-64),2026-08-14T23:00:00+0200,history
+output_gap,1995,0.75724,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,1996,-0.1954,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,1997,0.50469,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,1998,0.86832,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,1999,-0.0534,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2000,-0.35817,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2001,-0.38061,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2002,-0.37372,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2003,0.04246,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2004,0.8013,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2005,-1.06392,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2006,1.88087,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2007,2.79754,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2008,1.3679,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2009,-2.90151,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2010,-7.52708,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2011,-14.36522,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2012,-18.7961,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2013,-18.41689,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2014,-16.09959,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2015,-15.07479,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2016,-13.64656,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2017,-11.56542,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2018,-8.78133,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2019,-6.30522,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2020,-14.09764,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2021,-6.02283,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2022,-0.66244,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2023,1.04288,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2024,2.23275,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+output_gap,2025,2.70341,"AMECO (EC, Spring 2026)",AVGDGP,Spring 2026,history
+population_mn,1995,10.535973,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,1996,10.588332,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,1997,10.629267,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,1998,10.69325,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,1999,10.747768,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2000,10.775627,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2001,10.835989,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2002,10.888274,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2003,10.91577,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2004,10.940369,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2005,10.969912,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2006,11.004716,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2007,11.036008,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2008,11.060937,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2009,11.094745,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2010,11.119289,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2011,11.123392,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2012,11.086406,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2013,11.003615,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2014,10.894294,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2015,10.818041,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2016,10.735415,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2017,10.707527,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2018,10.667336,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2019,10.635213,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2020,10.612591,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2021,10.555344,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2022,10.461627,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2023,10.401868,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2024,10.375764,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2025,10.372335,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+population_mn,2026,10.366586,Eurostat,demo_gind JAN (1 January),2026-07-21T23:00:00+0200,history
+potential_gdp_bn_eur2020,1995,148.86236,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,1996,152.36087,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,1997,156.75071,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,1998,161.55363,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,1999,167.37848,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2000,174.83745,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2001,183.00932,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2002,191.56664,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2003,201.8283,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2004,211.08129,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2005,217.60601,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2006,224.93221,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2007,230.74417,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2008,234.13296,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2009,234.35912,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2010,232.07068,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2011,225.85064,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2012,218.33155,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2013,212.37904,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2014,208.14924,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2015,205.168,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2016,201.71051,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2017,199.86516,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2018,197.76567,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2019,196.92371,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2020,195.03482,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2021,193.7058,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2022,193.37239,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2023,194.16937,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2024,195.91379,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_gdp_bn_eur2020,2025,199.05879,"AMECO (EC, Spring 2026)",OVGDP,Spring 2026,history
+potential_growth,1996,2.35,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,1997,2.88,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,1998,3.06,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,1999,3.61,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2000,4.46,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2001,4.67,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2002,4.68,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2003,5.36,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2004,4.58,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2005,3.09,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2006,3.37,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2007,2.58,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2008,1.47,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2009,0.1,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2010,-0.98,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2011,-2.68,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2012,-3.33,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2013,-2.73,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2014,-1.99,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2015,-1.43,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2016,-1.69,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2017,-0.91,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2018,-1.05,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2019,-0.43,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2020,-0.96,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2021,-0.68,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2022,-0.17,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2023,0.41,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2024,0.9,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+potential_growth,2025,1.61,"AMECO (EC, Spring 2026)",OVGDP (computed % change),Spring 2026,history
+primary_balance_pct_gdp,1995,0.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,1996,2.1,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,1997,2.4,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,1998,1.5,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,1999,1.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2000,2.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2001,0.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2002,-0.5,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2003,-3.0,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2004,-4.2,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2005,-1.5,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2006,-1.5,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2007,-2.2,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2008,-5.4,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2009,-10.3,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2010,-5.3,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2011,-2.8,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2012,-3.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2013,-9.4,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2014,0.2,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2015,-2.3,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2016,3.4,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2017,3.8,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2018,4.3,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2019,3.8,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2020,-6.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2021,-4.7,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2022,-0.1,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2023,2.0,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2024,4.8,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+primary_balance_pct_gdp,2025,4.9,Eurostat,gov_10dd_edpt1 B9 + gov_10a_main D41PAY (computed),2026-07-21T11:00:00+0200,history
+private_debt_pct_gdp,1995,36.2,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,1996,37.1,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,1997,39.4,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,1998,42.9,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,1999,46.7,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2000,55.9,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2001,62.9,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2002,66.6,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2003,70.7,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2004,75.8,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2005,88.0,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2006,94.6,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2007,103.4,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2008,115.0,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2009,118.5,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2010,130.0,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2011,133.1,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2012,137.1,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2013,134.8,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2014,133.7,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2015,130.2,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2016,127.4,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2017,120.5,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2018,118.8,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2019,109.7,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2020,123.7,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2021,120.1,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2022,99.8,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2023,94.0,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2024,94.6,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+private_debt_pct_gdp,2025,96.6,Eurostat,"tipspd20 (NFC+HH, consolidated, loans+debt securities)",2026-08-22T11:00:00+0200,history
+public_debt_pct_gdp,1995,100.4,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,1996,103.7,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,1997,102.6,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,1998,100.8,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,1999,102.8,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2000,108.9,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2001,110.5,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2002,107.9,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2003,104.3,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2004,105.5,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2005,109.9,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2006,105.3,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2007,104.6,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2008,110.9,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2009,128.5,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2010,147.8,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2011,175.1,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2012,164.1,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2013,180.4,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2014,182.7,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2015,179.6,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2016,183.1,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2017,182.1,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2018,189.0,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2019,183.2,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2020,209.4,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2021,197.3,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2022,177.8,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2023,164.3,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2024,154.2,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+public_debt_pct_gdp,2025,146.1,Eurostat,gov_10dd_edpt1 GD S13 (Maastricht),2026-04-22T11:00:00+0200,history
+reer_cpi_ic42,1995,103.41177,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,1996,106.25498,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,1997,104.87545,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,1998,103.39347,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,1999,105.55787,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2000,97.20549,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2001,97.40309,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2002,99.91278,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2003,106.07092,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2004,107.55288,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2005,106.32373,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2006,106.31109,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2007,107.04701,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2008,108.79117,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2009,111.45647,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2010,110.14185,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2011,110.78713,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2012,105.86794,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2013,105.31722,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2014,104.67309,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2015,100.0,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2016,101.15661,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2017,101.76128,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2018,103.85142,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2019,101.68175,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2020,102.04211,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2021,100.50136,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2022,99.21275,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2023,100.91214,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2024,101.395,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_cpi_ic42,2025,102.52877,Eurostat,ert_eff_ic_a REER_IC42_CPI (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,1995,85.15013,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,1996,88.56465,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,1997,96.29733,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,1998,96.97863,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,1999,100.84769,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2000,97.78729,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2001,95.64497,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2002,100.48867,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2003,101.63708,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2004,101.80194,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2005,107.94132,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2006,107.34164,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2007,108.56253,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2008,109.37123,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2009,111.32162,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2010,113.99369,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2011,116.28195,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2012,115.29181,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2013,106.44563,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2014,103.70945,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2015,100.0,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2016,98.57757,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2017,96.97846,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2018,93.93173,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2019,91.16681,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2020,93.18986,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2021,92.39555,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2022,89.65954,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2023,86.51426,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2024,86.34264,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+reer_ulc_ea20,2025,85.4578,Eurostat,ert_eff_ic_a REER_EA20_ULCT (2015=100),2026-07-24T11:00:00+0200,history
+tfp_growth,1996,1.18,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,1997,3.3,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,1998,-0.16,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,1999,1.8,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2000,3.03,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2001,3.87,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2002,2.65,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2003,4.18,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2004,3.2,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2005,-1.61,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2006,4.7,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2007,1.91,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2008,-1.11,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2009,-3.35,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2010,-2.14,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2011,-7.59,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2012,-6.68,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2013,-1.63,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2014,0.54,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2015,2.66,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2016,-2.06,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2017,1.97,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2018,-1.02,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2019,2.64,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2020,-1.19,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2021,0.85,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2022,1.63,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2023,0.56,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2024,0.97,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_growth,2025,2.04,"AMECO (EC, Spring 2026)",ZVGDF (computed % change),Spring 2026,history
+tfp_idx_2020,1995,92.47119,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,1996,93.56406,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,1997,96.64771,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,1998,96.49333,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,1999,98.23155,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2000,101.21252,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2001,105.1332,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2002,107.91538,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2003,112.42642,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2004,116.02007,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2005,114.14864,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2006,119.51049,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2007,121.79764,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2008,120.44842,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2009,116.4141,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2010,113.92755,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2011,105.28241,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2012,98.25278,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2013,96.64704,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2014,97.1646,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2015,99.7445,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2016,97.6902,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2017,99.61295,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2018,98.60151,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2019,101.20282,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2020,100.0,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2021,100.8501,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2022,102.49425,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2023,103.06442,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2024,104.06296,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_idx_2020,2025,106.18181,"AMECO (EC, Spring 2026)",ZVGDF,Spring 2026,history
+tfp_solow_idx_2020,1995,92.471,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,1996,93.564,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,1997,96.648,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,1998,96.493,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,1999,98.232,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2000,101.213,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2001,105.133,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2002,107.915,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2003,112.426,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2004,116.02,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2005,114.149,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2006,119.511,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2007,121.798,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2008,120.448,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2009,116.414,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2010,113.928,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2011,105.282,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2012,98.253,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2013,96.647,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2014,97.165,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2015,99.745,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2016,97.69,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2017,99.613,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2018,98.602,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2019,101.203,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2020,100.0,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2021,100.85,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2022,102.494,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2023,103.064,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2024,104.063,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+tfp_solow_idx_2020,2025,106.182,Computed,"Solow residual, alpha=0.35, Eurostat Y & hours, AMECO K",2026-09-03,history
+ulc_growth,1996,7.6,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,1997,9.3,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,1998,6.9,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,1999,3.8,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2000,1.2,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2001,1.2,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2002,7.8,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2003,3.1,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2004,1.4,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2005,7.3,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2006,-0.1,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2007,2.7,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2008,4.6,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2009,6.8,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2010,1.7,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2011,2.6,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2012,0.7,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2013,-6.7,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2014,-1.7,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2015,-3.3,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2016,-0.4,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2017,-1.0,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2018,-1.0,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2019,-0.3,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2020,6.8,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2021,-1.7,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2022,0.1,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2023,3.2,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2024,4.6,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+ulc_growth,2025,2.3,Eurostat,nama_10_lp_ulc NULC_PER PCH_PRE,2026-09-02T23:00:00+0200,history
+unemployment_rate,1995,10.0,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,1996,10.3,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,1997,10.3,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,1998,11.2,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,1999,12.1,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2000,11.4,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2001,10.8,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2002,10.4,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2003,9.8,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2004,10.6,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2005,10.0,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2006,9.0,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2007,8.4,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2008,7.8,IMF WEO,LUR (spliced for 1995-2008),World Economic Outlook (April 2026),history
+unemployment_rate,2009,9.8,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2010,12.9,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2011,18.1,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2012,24.8,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2013,27.8,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2014,26.6,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2015,25.0,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2016,23.9,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2017,21.8,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2018,19.7,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2019,17.9,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2020,17.6,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2021,14.7,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2022,12.5,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2023,11.1,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2024,10.1,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history
+unemployment_rate,2025,8.9,Eurostat,une_rt_a 15-74,2026-06-11T23:00:00+0200,history

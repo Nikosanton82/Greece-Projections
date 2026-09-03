@@ -1,0 +1,347 @@
+<title>Hellenic Macro Projections</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:wght@500;600&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --ground:#f4f6f9; --surface:#ffffff; --surface-2:#eef1f5; --line:#d8dee7; --line-soft:#e9edf2;
+  --ink:#141820; --ink-2:#4b5563; --ink-3:#7b8593;
+  --accent:#1c5cab; --accent-ink:#ffffff; --band90:#cfe1f8; --band68:#8cb6ea; --median:#1c5cab;
+  --hist:#141820; --alt-model:#9aa5b4;
+  --imf:#eb6834; --ec:#1baf7a; --oecd:#e87ba4; --bog:#4a3aa7; --mof:#e34948; --old:#8a93a1;
+  --good:#1a7f37; --warn:#b26a00; --bad:#c62828;
+  --shadow:0 1px 2px rgba(20,24,32,.06),0 4px 14px rgba(20,24,32,.05);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --ground:#12151a; --surface:#1a1e25; --surface-2:#232830; --line:#323944; --line-soft:#2a3039;
+    --ink:#eef1f5; --ink-2:#b6bec9; --ink-3:#8a93a1;
+    --accent:#6da7ec; --accent-ink:#0b1a2e; --band90:#1f3550; --band68:#2f5f9b; --median:#86b6ef;
+    --hist:#eef1f5; --alt-model:#6b7684;
+    --imf:#d95926; --ec:#199e70; --oecd:#d55181; --bog:#9085e9; --mof:#e66767; --old:#8a93a1;
+    --good:#4caf6a; --warn:#e0a24a; --bad:#ef6b6b;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --ground:#12151a; --surface:#1a1e25; --surface-2:#232830; --line:#323944; --line-soft:#2a3039;
+  --ink:#eef1f5; --ink-2:#b6bec9; --ink-3:#8a93a1;
+  --accent:#6da7ec; --accent-ink:#0b1a2e; --band90:#1f3550; --band68:#2f5f9b; --median:#86b6ef;
+  --hist:#eef1f5; --alt-model:#6b7684;
+  --imf:#d95926; --ec:#199e70; --oecd:#d55181; --bog:#9085e9; --mof:#e66767; --old:#8a93a1;
+  --good:#4caf6a; --warn:#e0a24a; --bad:#ef6b6b;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font:14px/1.5 "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+.mono{font-family:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;font-variant-numeric:tabular-nums}
+h1,h2,h3{font-family:"IBM Plex Serif",Georgia,serif;font-weight:600;margin:0;text-wrap:balance}
+a{color:var(--accent)}
+.wrap{max-width:1380px;margin:0 auto;padding:20px 24px 48px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+header h1{font-size:26px;line-height:1.15}
+.eyebrow{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);font-weight:500;margin-bottom:4px}
+.sub{color:var(--ink-2);margin-top:6px;max-width:70ch}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:transparent;color:var(--ink-2);padding:7px 12px;font:inherit;font-weight:500;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.seg button:focus-visible,select:focus-visible,.tab:focus-visible,.panel:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+select{font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink)}
+label.ctl{display:flex;align-items:center;gap:8px;color:var(--ink-2);font-size:13px}
+nav.tabs{display:flex;gap:4px;margin:14px 0 18px;border-bottom:1px solid var(--line)}
+.tab{border:0;background:transparent;font:inherit;font-weight:500;color:var(--ink-2);padding:10px 14px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin-bottom:18px}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;box-shadow:var(--shadow)}
+.tile .k{font-size:12px;color:var(--ink-3);font-weight:500}
+.tile .v{font-size:22px;font-weight:500;margin-top:2px}
+.tile .d{font-size:12px;color:var(--ink-2);margin-top:2px;display:flex;justify-content:space-between;gap:6px;white-space:nowrap}
+.tile .d b{font-weight:500;color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(400px,1fr));gap:14px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 14px 8px;box-shadow:var(--shadow);cursor:pointer}
+.panel:hover{border-color:var(--accent)}
+.panel h3{font-size:15px;font-weight:600;font-family:"IBM Plex Sans",system-ui,sans-serif;display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.panel h3 .u{font-size:11px;color:var(--ink-3);font-weight:500;letter-spacing:.04em;text-transform:uppercase}
+.panel .strip{display:flex;gap:14px;font-size:12px;color:var(--ink-2);margin:2px 0 4px}
+.panel .strip b{font-weight:500;color:var(--ink)}
+.panel>svg,#dchart>svg{display:block;width:100%;height:auto;overflow:visible}
+.legend svg{flex:none}
+.gridline{stroke:var(--line-soft);stroke-width:1}
+.axis text{fill:var(--ink-3);font-size:11px;font-family:"IBM Plex Mono",monospace}
+.zero{stroke:var(--line);stroke-width:1}
+.b90{fill:var(--band90)}.b68{fill:var(--band68)}
+.med{stroke:var(--median);stroke-width:2;fill:none}
+.hist{stroke:var(--hist);stroke-width:2;fill:none}
+.alt{stroke:var(--alt-model);stroke-width:1.5;fill:none;stroke-dasharray:4 3}
+.cut{stroke:var(--ink-3);stroke-width:1;stroke-dasharray:2 3}
+.mark{stroke:var(--surface);stroke-width:1.5}
+.cross{stroke:var(--ink-3);stroke-width:1;stroke-dasharray:3 3;pointer-events:none}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12px;color:var(--ink-2);margin:10px 0 4px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.sw{width:14px;height:10px;border-radius:2px;display:inline-block}
+.tip{position:fixed;pointer-events:none;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;font-size:12px;box-shadow:var(--shadow);z-index:9;min-width:180px;display:none}
+.tip .t{font-weight:600;margin-bottom:4px}
+.tip .r{display:flex;justify-content:space-between;gap:12px}
+.tip .r span:last-child{font-family:"IBM Plex Mono",monospace}
+.detail{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(320px,1fr);gap:16px}
+@media (max-width:980px){.detail{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;box-shadow:var(--shadow)}
+.card h2{font-size:18px;margin-bottom:4px}
+.card p{color:var(--ink-2);margin:6px 0 10px;max-width:70ch}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{padding:6px 8px;border-bottom:1px solid var(--line-soft);text-align:right;white-space:nowrap}
+th{color:var(--ink-3);font-weight:500;font-size:11px;letter-spacing:.04em;text-transform:uppercase}
+th:first-child,td:first-child{text-align:left}
+td.num{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums}
+.tscroll{overflow-x:auto}
+.pill{display:inline-block;padding:1px 7px;border-radius:10px;font-size:11px;font-weight:500;border:1px solid var(--line);color:var(--ink-2)}
+.pill.good{color:var(--good);border-color:var(--good)}
+.pill.warn{color:var(--warn);border-color:var(--warn)}
+.note{font-size:12px;color:var(--ink-3);margin-top:8px}
+.prose{max-width:74ch;color:var(--ink-2)}
+.prose h2{color:var(--ink);font-size:18px;margin:18px 0 6px}
+.prose h3{font-family:"IBM Plex Sans",sans-serif;font-size:14px;font-weight:600;color:var(--ink);margin:14px 0 4px}
+.prose p{margin:0 0 10px}
+.prose code{font-family:"IBM Plex Mono",monospace;font-size:12px;background:var(--surface-2);padding:1px 4px;border-radius:3px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;font-size:13px}
+.kv div:nth-child(odd){color:var(--ink-3)}
+@media (prefers-reduced-motion:no-preference){.panel{transition:border-color .15s}}
+</style>
+
+<div class="wrap">
+<header>
+  <div>
+    <div class="eyebrow">Greece · annual · projections to 2030 · built 2026-09-03</div>
+    <h1>Hellenic Macro Projections</h1>
+    <div class="sub">History from Eurostat, AMECO and the IMF; own model suite (ARIMA, unobserved components, Minnesota BVAR, production function, debt dynamics) combined by pseudo-out-of-sample performance, with fan charts and the official forecasts of the IMF, European Commission, OECD, Bank of Greece and Ministry of Finance overlaid.</div>
+  </div>
+  <div class="controls">
+    <label class="ctl">Scenario
+      <div class="seg" id="scen" role="group" aria-label="Scenario">
+        <button aria-pressed="true" data-s="baseline">Baseline</button><button aria-pressed="false" data-s="adverse">Adverse</button><button aria-pressed="false" data-s="favourable">Favourable</button>
+      </div>
+    </label>
+    <label class="ctl">Model <select id="model"></select></label>
+    <label class="ctl">From <select id="from"><option>1996</option><option>2005</option><option selected>2010</option><option>2015</option></select></label>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist">
+  <button class="tab" role="tab" aria-selected="true" data-t="overview">Overview</button>
+  <button class="tab" role="tab" aria-selected="false" data-t="detail">Variable detail</button>
+  <button class="tab" role="tab" aria-selected="false" data-t="eval">Model evaluation</button>
+  <button class="tab" role="tab" aria-selected="false" data-t="method">Method & sources</button>
+</nav>
+
+<section id="overview">
+  <div class="tiles" id="tiles"></div>
+  <div class="legend" id="legend"></div>
+  <div class="grid" id="grid"></div>
+</section>
+
+<section id="detail" hidden>
+  <div class="controls" style="margin-bottom:12px"><label class="ctl">Variable <select id="dvar"></select></label></div>
+  <div class="detail">
+    <div class="card"><div id="dchart"></div><div class="legend" id="dlegend"></div><div class="note" id="dnote"></div></div>
+    <div class="card"><h2>Median paths by model</h2><p>Scenario shown at left. The combination draws from each model's predictive density in proportion to its weight.</p><div class="tscroll" id="dtable"></div><h2 style="margin-top:16px">Official projections</h2><div class="tscroll" id="otable"></div></div>
+  </div>
+</section>
+
+<section id="eval" hidden>
+  <div class="card">
+    <h2>Pseudo-out-of-sample evaluation, origins 2009-2024</h2>
+    <p>Each model is re-estimated at every origin using data up to that year and forecasts 1 to 5 years ahead; errors are measured against the current vintage. RMSE is compared with a naive benchmark (last value for ratios and levels, 10-year mean for growth rates). The Diebold-Mariano p-value (HLN small-sample correction) tests equal squared-error loss against the naive forecast. Weights are inverse-MSE over horizons 1-3; where a structural block exists it holds a fixed 0.5 (it has no comparable OOS record) and the time-series models share the rest. Note that the evaluation window contains 2010-2015 and 2020, so absolute errors are large for every model.</p>
+    <div class="tscroll" id="etable"></div>
+  </div>
+</section>
+
+<section id="method" hidden>
+  <div class="card prose" id="methodtext"></div>
+</section>
+</div>
+<div class="tip" id="tip"></div>
+
+<script>
+const D = /*__DATA__*/null;
+const VARS = [
+  {k:"gdp_growth", l:"Real GDP growth", u:"% y/y", d:1, zero:true},
+  {k:"gdp_pc_pps", l:"GDP per capita", u:"PPS", d:0, zero:false, fmt:v=>Math.round(v).toLocaleString("en-GB")},
+  {k:"hicp_inflation", l:"HICP inflation", u:"% y/y", d:1, zero:true},
+  {k:"unemployment_rate", l:"Unemployment rate", u:"% of labour force", d:1, zero:false},
+  {k:"tfp_growth", l:"Total factor productivity growth", u:"% y/y", d:1, zero:true},
+  {k:"potential_growth", l:"Potential GDP growth", u:"% y/y", d:1, zero:true},
+  {k:"public_debt_pct_gdp", l:"General government gross debt", u:"% of GDP", d:0, zero:false},
+  {k:"private_debt_pct_gdp", l:"Private sector debt (NFC + households)", u:"% of GDP", d:0, zero:false},
+  {k:"current_account_pct_gdp", l:"Current account balance", u:"% of GDP", d:1, zero:true},
+  {k:"investment_growth", l:"Real gross fixed capital formation growth", u:"% y/y", d:1, zero:true},
+  {k:"fertility_rate", l:"Total fertility rate", u:"children per woman", d:2, zero:false},
+  {k:"population_mn", l:"Population", u:"million", d:2, zero:false},
+];
+const INST = {
+  "IMF WEO":{c:"var(--imf)", s:"circle", l:"IMF WEO (Apr 2026)"},
+  "European Commission":{c:"var(--ec)", s:"square", l:"European Commission (Spring 2026)"},
+  "OECD":{c:"var(--oecd)", s:"diamond", l:"OECD EO119 (Jun 2026)"},
+  "Bank of Greece":{c:"var(--bog)", s:"triangle", l:"Bank of Greece (Jul 2026)"},
+  "Ministry of Finance":{c:"var(--mof)", s:"plus", l:"Ministry of Finance (Apr 2026)"},
+  "MinFin MTFSP 2025-28":{c:"var(--old)", s:"cross", l:"MinFin MTFSP (Oct 2024)"},
+  "Eurostat EUROPOP2023":{c:"var(--old)", s:"cross", l:"Eurostat EUROPOP2023"},
+};
+const MODELS = {combination:"Combination (weighted)", equal_weights:"Combination (equal weights)", arima:"ARIMA (AIC-selected)", ar1:"AR(1) mean-reverting", llt:"Local linear trend", anchored:"AR(1) anchored at 2%", bvar:"Minnesota BVAR", structural:"Structural / accounting"};
+let scen="baseline", model="combination", from=2010, dvar="gdp_growth";
+const fmt=(v,V)=> v==null||isNaN(v)?"–":(V.fmt?V.fmt(v):v.toFixed(V.d));
+const tip=document.getElementById("tip");
+
+function series(V){ // returns {hist:[[y,v]], proj:{p05..} by year, off:{inst:{year:v}}}
+  const h=Object.entries(D.history[V.k]||{}).map(([y,v])=>[+y,v]).filter(a=>a[1]!=null&&a[0]<=D.last_hist).sort((a,b)=>a[0]-b[0]);
+  const p=((D.projections[V.k]||{})[scen]||{})[model];
+  return {hist:h, proj:p, off:D.official[V.k]||{}};
+}
+function symbol(s, x, y, r, c){
+  const st=`fill="${c}" class="mark"`;
+  if(s==="circle") return `<circle cx="${x}" cy="${y}" r="${r}" ${st}/>`;
+  if(s==="square") return `<rect x="${x-r}" y="${y-r}" width="${2*r}" height="${2*r}" ${st}/>`;
+  if(s==="diamond") return `<path d="M${x} ${y-r-1}L${x+r+1} ${y}L${x} ${y+r+1}L${x-r-1} ${y}Z" ${st}/>`;
+  if(s==="triangle") return `<path d="M${x} ${y-r-1}L${x+r+1} ${y+r}L${x-r-1} ${y+r}Z" ${st}/>`;
+  if(s==="plus") return `<path d="M${x-r} ${y}H${x+r}M${x} ${y-r}V${y+r}" stroke="${c}" stroke-width="2.5" fill="none"/>`;
+  return `<path d="M${x-r} ${y-r}L${x+r} ${y+r}M${x-r} ${y+r}L${x+r} ${y-r}" stroke="${c}" stroke-width="2.5" fill="none"/>`;
+}
+function fan(V, W, Hh, big){
+  const S=series(V); const y0=from, y1=D.years[D.years.length-1];
+  const hist=S.hist.filter(a=>a[0]>=y0); const vals=hist.map(a=>a[1]);
+  if(S.proj){ vals.push(...S.proj.p05, ...S.proj.p95); }
+  for(const i in S.off) for(const [y,v] of Object.entries(S.off[i].data)) if(+y>=y0&&+y<=y1) vals.push(v);
+  if(V.zero) vals.push(0);
+  let lo=Math.min(...vals), hi=Math.max(...vals); const pad=(hi-lo)*0.08||1; lo-=pad; hi+=pad;
+  const m={l:big?52:44,r:14,t:10,b:24}; const w=W-m.l-m.r, h=Hh-m.t-m.b;
+  const X=y=>m.l+(y-y0)/(y1-y0)*w, Y=v=>m.t+(hi-v)/(hi-lo)*h;
+  // ticks
+  const span=hi-lo, step=[0.05,0.1,0.2,0.25,0.5,1,2,5,10,20,50,1000,2000,5000].find(s=>span/s<=6)||span/5;
+  const t0=Math.ceil(lo/step)*step; let g="";
+  for(let v=t0; v<=hi+1e-9; v+=step){ g+=`<line class="gridline" x1="${m.l}" x2="${m.l+w}" y1="${Y(v)}" y2="${Y(v)}"/><text x="${m.l-6}" y="${Y(v)+4}" text-anchor="end">${V.fmt?V.fmt(v):+v.toFixed(2)}</text>`; }
+  if(V.zero && lo<0 && hi>0) g+=`<line class="zero" x1="${m.l}" x2="${m.l+w}" y1="${Y(0)}" y2="${Y(0)}"/>`;
+  const yrs=[]; for(let y=y0;y<=y1;y++) if((y1-y0<=16)||y%5===0||y===y1) yrs.push(y);
+  for(const y of yrs) g+=`<text x="${X(y)}" y="${Hh-6}" text-anchor="middle">${y}</text>`;
+  g+=`<line class="cut" x1="${X(D.last_hist)}" x2="${X(D.last_hist)}" y1="${m.t}" y2="${m.t+h}"/>`;
+  let body="";
+  if(S.proj){
+    const ys=[D.last_hist,...D.years]; const last=S.hist[S.hist.length-1][1];
+    const band=(a,b)=>{ const up=ys.map((y,i)=>`${X(y)},${Y(i===0?last:a[i-1])}`), dn=ys.map((y,i)=>`${X(y)},${Y(i===0?last:b[i-1])}`).reverse(); return up.concat(dn).join(" "); };
+    body+=`<polygon class="b90" points="${band(S.proj.p95,S.proj.p05)}"/><polygon class="b68" points="${band(S.proj.p84,S.proj.p16)}"/>`;
+    body+=`<polyline class="med" points="${ys.map((y,i)=>`${X(y)},${Y(i===0?last:S.proj.p50[i-1])}`).join(" ")}"/>`;
+    if(big && model==="combination"){ // show other model medians faintly
+      for(const [mk,mv] of Object.entries(D.projections[V.k][scen])) if(!["combination","equal_weights"].includes(mk))
+        body+=`<polyline class="alt" points="${ys.map((y,i)=>`${X(y)},${Y(i===0?last:mv.p50[i-1])}`).join(" ")}"/>`;
+    }
+  }
+  body+=`<polyline class="hist" points="${hist.map(a=>`${X(a[0])},${Y(a[1])}`).join(" ")}"/>`;
+  const instKeys=Object.keys(INST);
+  for(const [inst,o] of Object.entries(S.off)){ const I=INST[inst]||{c:"var(--old)",s:"cross"}; const jit=(instKeys.indexOf(inst)-3)*(big?0.06:0.05);
+    for(const [y,v] of Object.entries(o.data)) if(+y>D.last_hist&&+y<=y1) body+=symbol(I.s,X(+y+jit),Y(v),big?4.5:3.5,I.c); }
+  const svg=`<svg viewBox="0 0 ${W} ${Hh}" role="img" aria-label="${V.l}, history and projection fan chart"><g class="axis">${g}</g>${body}<g class="hover"></g></svg>`;
+  return {svg, S, X, Y, m, w, h, y0, y1};
+}
+function attachHover(container, F, V){
+  const svg=container.querySelector("svg"); const hov=svg.querySelector(".hover");
+  const vb=svg.viewBox.baseVal;
+  svg.addEventListener("mousemove", e=>{
+    const r=svg.getBoundingClientRect(); const px=(e.clientX-r.left)/r.width*vb.width;
+    const y=Math.round(F.y0+(px-F.m.l)/F.w*(F.y1-F.y0)); if(y<F.y0||y>F.y1){hov.innerHTML="";tip.style.display="none";return;}
+    hov.innerHTML=`<line class="cross" x1="${F.X(y)}" x2="${F.X(y)}" y1="${F.m.t}" y2="${F.m.t+F.h}"/>`;
+    let rows=`<div class="t">${y} · ${V.l}</div>`;
+    const hv=F.S.hist.find(a=>a[0]===y); if(hv) rows+=`<div class="r"><span>Outturn</span><span>${fmt(hv[1],V)}</span></div>`;
+    const i=D.years.indexOf(y);
+    if(i>=0&&F.S.proj){ rows+=`<div class="r"><span>Median (${MODELS[model].split(" ")[0]})</span><span>${fmt(F.S.proj.p50[i],V)}</span></div><div class="r"><span>68% band</span><span>${fmt(F.S.proj.p16[i],V)} – ${fmt(F.S.proj.p84[i],V)}</span></div><div class="r"><span>90% band</span><span>${fmt(F.S.proj.p05[i],V)} – ${fmt(F.S.proj.p95[i],V)}</span></div>`; }
+    for(const [inst,o] of Object.entries(F.S.off)) if(o.data[y]!=null&&y>D.last_hist) rows+=`<div class="r"><span style="color:${(INST[inst]||{}).c||'var(--old)'}">${inst}</span><span>${fmt(o.data[y],V)}</span></div>`;
+    tip.innerHTML=rows; tip.style.display="block";
+    const tw=tip.offsetWidth, th=tip.offsetHeight; let lx=e.clientX+14, ly=e.clientY+14;
+    if(lx+tw>window.innerWidth-8) lx=e.clientX-tw-14; if(ly+th>window.innerHeight-8) ly=e.clientY-th-14;
+    tip.style.left=lx+"px"; tip.style.top=ly+"px";
+  });
+  svg.addEventListener("mouseleave", ()=>{hov.innerHTML="";tip.style.display="none";});
+}
+function renderLegend(el, big){
+  let h=`<span><i class="sw" style="background:var(--hist);height:2px"></i>Outturn</span><span><i class="sw" style="background:var(--median);height:2px"></i>Median, ${MODELS[model]}</span><span><i class="sw" style="background:var(--band68)"></i>68% band</span><span><i class="sw" style="background:var(--band90)"></i>90% band</span>`;
+  if(big&&model==="combination") h+=`<span><i class="sw" style="background:var(--alt-model);height:2px"></i>Other models (median)</span>`;
+  for(const [k,I] of Object.entries(INST)) h+=`<span><svg width="14" height="14" viewBox="-7 -7 14 14">${symbol(I.s,0,0,4,I.c)}</svg>${I.l}</span>`;
+  el.innerHTML=h;
+}
+function renderOverview(){
+  const T=document.getElementById("tiles"); let th="";
+  for(const V of VARS){ const S=series(V); const last=S.hist[S.hist.length-1]; const p=S.proj; const i=D.years.length-1;
+    th+=`<div class="tile"><div class="k">${V.l}</div><div class="v mono">${fmt(last[1],V)} <span style="font-size:12px;color:var(--ink-3)">${last[0]}</span></div><div class="d"><span>2030 median</span><b class="mono">${p?fmt(p.p50[i],V):"–"}</b></div><div class="d"><span>68% band</span><span class="mono">${p?fmt(p.p16[i],V)+" – "+fmt(p.p84[i],V):"–"}</span></div></div>`; }
+  T.innerHTML=th; renderLegend(document.getElementById("legend"), false);
+  const G=document.getElementById("grid"); G.innerHTML="";
+  for(const V of VARS){ const F=fan(V,420,200,false); const S=F.S; const last=S.hist[S.hist.length-1]; const p=S.proj;
+    const el=document.createElement("div"); el.className="panel"; el.tabIndex=0; el.setAttribute("role","button"); el.setAttribute("aria-label","Open detail for "+V.l);
+    el.innerHTML=`<h3>${V.l}<span class="u">${V.u}</span></h3><div class="strip"><span>${last[0]} <b class="mono">${fmt(last[1],V)}</b></span><span>2030 <b class="mono">${p?fmt(p.p50[4],V):"–"}</b></span><span>68% <span class="mono">${p?fmt(p.p16[4],V)+"–"+fmt(p.p84[4],V):"–"}</span></span></div>${F.svg}`;
+    const open=()=>{dvar=V.k; document.getElementById("dvar").value=V.k; showTab("detail");};
+    el.addEventListener("click",open); el.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();open();}});
+    G.appendChild(el); attachHover(el,F,V); }
+}
+function renderDetail(){
+  const V=VARS.find(v=>v.k===dvar); const F=fan(V,860,380,true);
+  const c=document.getElementById("dchart"); c.innerHTML=`<h2>${V.l} <span style="font-size:12px;color:var(--ink-3);font-family:'IBM Plex Sans'">${V.u} · ${scen} scenario</span></h2>`+F.svg; attachHover(c,F,V); renderLegend(document.getElementById("dlegend"),true);
+  const W=D.weights[V.k]||{}; const P=D.projections[V.k][scen];
+  let t=`<table><thead><tr><th>Model</th><th>Weight</th>${D.years.map(y=>`<th>${y}</th>`).join("")}</tr></thead><tbody>`;
+  const order=["combination","equal_weights",...Object.keys(P).filter(k=>!["combination","equal_weights"].includes(k))];
+  for(const mk of order){ const mv=P[mk]; if(!mv) continue; t+=`<tr><td>${MODELS[mk]||mk}</td><td class="num">${W[mk]!=null?W[mk].toFixed(2):"–"}</td>${mv.p50.map(v=>`<td class="num">${fmt(v,V)}</td>`).join("")}</tr>`; }
+  t+=`<tr><td colspan="2" style="color:var(--ink-3)">Combination 68% band</td>${P.combination.p16.map((v,i)=>`<td class="num" style="color:var(--ink-3)">${fmt(v,V)}–${fmt(P.combination.p84[i],V)}</td>`).join("")}</tr></tbody></table>`;
+  document.getElementById("dtable").innerHTML=t;
+  const O=D.official[V.k]||{}; let o=`<table><thead><tr><th>Institution</th><th>Vintage</th>${D.years.map(y=>`<th>${y}</th>`).join("")}</tr></thead><tbody>`;
+  for(const [inst,ov] of Object.entries(O)) o+=`<tr><td><span style="color:${(INST[inst]||{}).c||'var(--old)'}">●</span> ${inst}${ov.entry==="manual"?' <span class="pill">manual</span>':""}</td><td style="white-space:normal;max-width:140px;font-size:12px;color:var(--ink-3)">${ov.vintage.replace("World Economic Outlook","WEO")}</td>${D.years.map(y=>`<td class="num">${ov.data[y]!=null?fmt(ov.data[y],V):"·"}</td>`).join("")}</tr>`;
+  o+="</tbody></table>"; document.getElementById("otable").innerHTML=Object.keys(O).length?o:'<div class="note">No institution publishes a projection for this variable on this horizon.</div>';
+  const notes={gdp_growth:"The structural path is a Cobb-Douglas production function (alpha = 0.35) with TFP from the univariate combination, perpetual-inventory capital and EUROPOP2023 working-age population, starting from the OECD output gap (+0.9% in 2025) closed 20% a year. The AR(1) reverts to the 1996-2025 mean, which still carries the depression years, so it sits below the institutions.",
+    unemployment_rate:"The structural block is an Okun relation, du = c + beta (g - g*), estimated 1997-2025 (beta = "+(D.okun?D.okun.beta.toFixed(2):"")+", R² = "+(D.okun?D.okun.r2.toFixed(2):"")+"). With growth close to potential it keeps unemployment near its current level; the institutions expect a further decline through a falling NAWRU.",
+    public_debt_pct_gdp:"Debt dynamics: d_t = d_{t-1}(1+i)/(1+g) - pb + sfa, with the implicit interest rate rising from 2.3% to 3.2% by 2030 as concessional official loans are refinanced at market rates, a primary balance converging from the EC's 4.0% (2026) to the MTFSP's 2.4% by 2030, and stock-flow adjustments averaging -0.5% of GDP (cash-buffer drawdowns and early repayments).",
+    hicp_inflation:"The anchored model treats inflation as an AR(1) in deviations from the ECB's 2% objective; the BVAR carries the Phillips-curve information of a tight labour market. Their disagreement is the main source of width in the band.",
+    fertility_rate:"Eurostat's 2024 outturn (1.24) is well below the EUROPOP2023 assumption (1.42 for 2025), so the Eurostat population baseline is optimistic relative to the latest data. 2025 is not yet published.",
+    private_debt_pct_gdp:"Ratio dynamics with nominal credit growth as an AR(1) around 4% (2025 outturn +7%) against nominal GDP growth from the GDP and inflation blocks. Eurostat's MIP definition: consolidated loans and debt securities of NFCs and households.",
+    tfp_growth:"AMECO's TFP is a Solow residual with a 0.65 labour share; the own recomputation from Eurostat GDP and hours and AMECO capital reproduces it to three decimals. The EC forecasts 0.75% for 2026.",
+    potential_growth:"Structural potential growth follows from TFP, capital and labour input; the EC's Spring 2026 figure is 1.7% for 2026-2027.",
+    population_mn:"Cohort-free balance: natural change trending from -55k a year and net migration as an AR(1) around +40k (the 2023-2025 average). The 1 January 2026 figure is already an outturn."};
+  document.getElementById("dnote").textContent=notes[V.k]||"";
+}
+function renderEval(){
+  const E=D.evaluation; let t=`<table><thead><tr><th>Variable</th><th>Model</th><th>Weight</th><th>RMSE h=1</th><th>RMSE h=3</th><th>RMSE h=5</th><th>Naive h=1</th><th>Naive h=3</th><th>DM p (h=1)</th><th>DM p (h=3)</th><th>n</th></tr></thead><tbody>`;
+  for(const V of VARS){ const ev=E[V.k]||{}; const W=D.weights[V.k]||{};
+    for(const [mk,r] of Object.entries(ev)){ const g=h=>r[h]?r[h].rmse.toFixed(V.d+1):"–", gn=h=>r[h]?r[h].rmse_naive.toFixed(V.d+1):"–";
+      const pp=h=>{ if(!r[h]||r[h].p==null) return "–"; const p=r[h].p; const better=r[h].rmse<r[h].rmse_naive; return `<span class="pill ${p<0.1?(better?'good':'warn'):''}">${p.toFixed(2)}${p<0.1?(better?' beats naive':' worse'):''}</span>`; };
+      t+=`<tr><td>${V.l}</td><td>${MODELS[mk]||mk}</td><td class="num">${W[mk]!=null?W[mk].toFixed(2):"–"}</td><td class="num">${g(1)}</td><td class="num">${g(3)}</td><td class="num">${g(5)}</td><td class="num">${gn(1)}</td><td class="num">${gn(3)}</td><td>${pp(1)}</td><td>${pp(3)}</td><td class="num">${r[1]?r[1].n:"–"}</td></tr>`; }
+    if(W.structural!=null) t+=`<tr><td>${V.l}</td><td>${MODELS.structural}</td><td class="num">${W.structural.toFixed(2)}</td><td colspan="8" style="text-align:left;color:var(--ink-3)">fixed weight; accounting/structural block evaluated by construction, not by pseudo-OOS</td></tr>`; }
+  document.getElementById("etable").innerHTML=t+"</tbody></table>";
+}
+function renderMethod(){
+  document.getElementById("methodtext").innerHTML=`
+<h2>Data</h2>
+<p>History is annual, 1995-2025, from official APIs: Eurostat (national accounts, HICP, LFS, EDP fiscal data, MIP private-debt indicators, demography), the IMF World Economic Outlook DataMapper (April 2026 vintage), the European Commission's AMECO database via DBnomics (Spring 2026 vintage: TFP, potential output, output gap, NAWRU, net capital stock), and the OECD Economic Outlook 119 SDMX service. Bank of Greece and Ministry of Finance projections were transcribed from their PDF reports and are flagged <span class="pill">manual</span>. 2025 national-accounts values are Eurostat's first provisional estimates (2 September 2026). Full variable-level provenance is in the data dictionary that accompanies this dashboard.</p>
+<h2>Model suite</h2>
+<h3>Time-series models</h3>
+<p><code>ARIMA</code>: orders (p,d,q) with p≤2, d≤1, q≤1 selected by AIC on the full history. <code>AR(1)</code>: mean-reverting around the 1996-2025 sample mean. <code>Local linear trend</code>: unobserved-components model with stochastic level and slope, used only for level variables. <code>Anchored AR(1)</code> (inflation): deviations from the ECB's 2% objective follow an AR(1) without intercept.</p>
+<h3>Bayesian VAR</h3>
+<p>Five-variable VAR(1) on real GDP growth, HICP inflation, unemployment, real investment growth and the current account, 1996-2025, with a Minnesota prior implemented through Banbura-Giannone-Reichlin dummy observations (overall tightness λ = 0.2; random-walk prior mean for unemployment, white-noise prior mean for the growth rates; a mild sum-of-coefficients prior centred on the last observation). Predictive densities come from 2,000 draws of the Normal-inverse-Wishart posterior.</p>
+<h3>Structural and accounting blocks</h3>
+<p>Potential output: Cobb-Douglas with α = 0.35, TFP from the univariate combination, perpetual-inventory capital with depreciation calibrated on 2025, and labour input from EUROPOP2023 working-age population, a rising participation rate and a slowly falling NAWRU. Actual growth closes the OECD's 2025 output gap by 20% a year. Unemployment: Okun relation estimated on 1997-2025. Public debt: the standard debt-dynamics identity with stochastic primary balance and stock-flow adjustment. Private debt: credit-growth versus nominal-GDP ratio dynamics. Population: natural change plus net migration, each AR(1). GDP per capita in PPS: real growth per head plus 2.5% PPS price drift.</p>
+<h3>Evaluation and combination</h3>
+<p>Rolling pseudo-out-of-sample forecasts from origins 2009-2024 at horizons 1-5, RMSE against a naive benchmark and Diebold-Mariano tests with the Harvey-Leybourne-Newbold correction. Combination weights are inverse-MSE over horizons 1-3 for the time-series models; the structural block, which has no comparable OOS record, holds a fixed weight of 0.5 where present. The combined predictive density is a mixture of the model densities in proportion to the weights; bands are the 16th/84th and 5th/95th percentiles of 2,000 draws.</p>
+<h3>Scenarios</h3>
+<p><b>Adverse</b>: TFP growth −0.7 pp, interest-growth differential +1 pp, a one-year inflation shock of +1 pp, primary balance −1 pp, net migration −30 thousand a year, zero real investment growth. <b>Favourable</b>: TFP +0.5 pp, interest-growth −0.5 pp, primary balance +0.5 pp, migration +30 thousand, investment +7% a year. For the time-series models the same shocks are mapped through fixed elasticities (growth 0.8 × TFP shock; unemployment via a 0.2-0.8 Okun ramp; debt via the differential).</p>
+<h2>Reading the charts</h2>
+<p>The dark line is the outturn, the blue line the median of the selected model, the two bands its 68% and 90% intervals. Coloured markers are the official projections at their published vintage; institutions differ in definitions (the OECD's gross financial liabilities are not shown on the Maastricht debt chart) and in cut-off dates, so they are not strictly comparable with each other or with the outturn. Where the models and the institutions disagree, the "Variable detail" note says why.</p>
+<h2>Reproducing</h2>
+<p>Files in the project folder: <code>2026-09-03-fetch-data.py</code> (API pulls into <code>data/raw/</code>), <code>2026-09-03-build-dataset.py</code> (tidy panel), <code>2026-09-03-models.py</code> (estimation, evaluation, simulation), <code>2026-09-03-build-dashboard.py</code> (this page). Run them in that order; the only manual step is updating <code>data/raw/official_projections_manual.json</code> from new Bank of Greece and Ministry of Finance reports.</p>`;
+}
+function showTab(t){ for(const b of document.querySelectorAll(".tab")) b.setAttribute("aria-selected", b.dataset.t===t); for(const s of ["overview","detail","eval","method"]) document.getElementById(s).hidden=s!==t; if(t==="detail") renderDetail(); }
+function rerender(){ renderOverview(); if(!document.getElementById("detail").hidden) renderDetail(); }
+// controls
+const ms=document.getElementById("model"); for(const [k,l] of Object.entries(MODELS)) ms.insertAdjacentHTML("beforeend",`<option value="${k}">${l}</option>`);
+ms.addEventListener("change",e=>{model=e.target.value; rerender();});
+document.getElementById("from").addEventListener("change",e=>{from=+e.target.value; rerender();});
+for(const b of document.querySelectorAll("#scen button")) b.addEventListener("click",()=>{scen=b.dataset.s; for(const x of document.querySelectorAll("#scen button")) x.setAttribute("aria-pressed",x===b); rerender();});
+for(const b of document.querySelectorAll(".tab")) b.addEventListener("click",()=>showTab(b.dataset.t));
+const dv=document.getElementById("dvar"); for(const V of VARS) dv.insertAdjacentHTML("beforeend",`<option value="${V.k}">${V.l}</option>`); dv.addEventListener("change",e=>{dvar=e.target.value; renderDetail();});
+// note: models like 'llt' do not exist for every variable; fall back to combination silently in series()
+const _series=series; series=function(V){ const r=_series(V); if(!r.proj && D.projections[V.k]){ r.proj=D.projections[V.k][scen].combination; } return r; };
+renderOverview(); renderEval(); renderMethod();
+</script>
